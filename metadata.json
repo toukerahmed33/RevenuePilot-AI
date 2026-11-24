@@ -1,0 +1,6 @@
+{
+  "name": "RevenuePilot AI",
+  "description": "Mobile-first productivity and municipal revenue management assistant for revenue supervisors in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
